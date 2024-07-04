@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -20,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Qr Code Component](https://qr-code-component-eight-plum.vercel.app/)
 
 ### Built with
 
@@ -35,6 +34,6 @@ I learnt the Effective use of FlexBoxes and How to Develop using Mobile First Ap
 
 ## Author
 
-- Website - [Add your name here](https://github.com/heisayon)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/heisayon)
-- Twitter - [@yourusername](https://www.twitter.com/heisayon)
+- Website - [Zion Uduakobong](https://github.com/heisayon)
+- Frontend Mentor - [@heisayon](https://www.frontendmentor.io/profile/heisayon)
+- Twitter - [@heisayon](https://www.twitter.com/heisayon)
